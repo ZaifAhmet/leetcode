@@ -40,7 +40,7 @@ git commit -m "Add <problem-name> solution"
 git push
 ```
 
-![LeetCode Stats](https://leetcode-stats-github.vercel.app/?username=gokhanzaif&theme=dark)
+![LeetCode Stats](https://leetcode-readme-stats.vercel.app/?username=gokhanzaif&theme=dark&layout=vertical)
 
 <!-- LEETCODE_PROGRESS_START -->
 ## Progress
