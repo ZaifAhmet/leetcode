@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="2812. Find the Safest Path in a Grid\P2812.FindTheSafestPathInAGrid.csproj" />
+    <ProjectReference Include="3286. Find a Safe Walk Through a Grid\P3286.FindASafeWalkThroughAGrid.csproj" />
+    <ProjectReference Include="874. Walking Robot Simulation\P874.WalkingRobotSimulation.csproj" />
+    <ProjectReference Include="Largest Rectangle in Histogram\LargestRectangleInHistogram.csproj" />
+    <ProjectReference Include="Number of Students Unable to Eat Lunch\NumberOfStudentsUnableToEatLunch.csproj" />
+  </ItemGroup>
+
+</Project>
